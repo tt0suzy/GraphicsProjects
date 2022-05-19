@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RayTracer</title>
+    <script src="Vector.js"></script>
+    <script src="Ray.js"></script>
+    <script src="Sphere.js"></script>
+    <script src="RayTracer.js"></script>
+    <script src="Camera.js"></script>
+    <script src="Materials.js"></script>
+    <script src="BVH.js"></script>
+    <!-- <script src="MovingSphere.js"></script> -->
+    <script src="AABB.js"></script>
+    <script src="Texture.js"></script>
+</head>
+<body>
+<div>
+    <input type="checkbox" id="full" name="full">
+    <label for="full">Full Rendering</label>
+</div>
+<button onclick="render()">Render The Scene</button>
+<p>Minimum Rednering which only renders 5 spheres and the plane takes 2 minutes to finish(If you leave the Full Rendering unchecked)</p>
+<p>Full Rednering takes 80 minutes to finish</p>
+<div style="clear: both;">
+<canvas id="#canvas" width="1000" height="600"></canvas>
+</div>
+
+</body>
+</html>

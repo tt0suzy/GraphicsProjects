@@ -1,0 +1,3 @@
+/Users/tt0suzy/Desktop/CS418/Ray Tracer/cmake-build-debug/CMakeFiles/Ray_Tracer.dir
+/Users/tt0suzy/Desktop/CS418/Ray Tracer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tt0suzy/Desktop/CS418/Ray Tracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
